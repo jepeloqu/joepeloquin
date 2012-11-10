@@ -403,7 +403,7 @@ fieldset {
 body {
 	background: url(images/bg_g.png) repeat #000 fixed;
 	color: #2c2b2b;
-	font: normal 14px arial;
+	font: normal 12px arial;
 	line-height: 18px;
 	position: relative;
 }
